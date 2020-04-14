@@ -1,0 +1,42 @@
+body {
+
+    background-color: lightblue;
+    margin-left: 40px;
+    margin-right: 200px
+}
+
+header {
+
+    font-size: 26px;
+    margin-top: 60px;
+    margin-left: 200px
+
+}
+
+h1 {
+
+    color: darkblue;
+    font-family: Verdana
+}
+
+h2 {
+
+    font-family:Verdana;
+    color:darkblue
+}
+
+p{
+
+    font-size: 18px
+}
+
+.img_padrao {
+
+    margin-bottom: 25px
+
+}
+
+footer {
+
+    margin-bottom: 30px
+}
